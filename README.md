@@ -76,11 +76,11 @@ To validate the functionality, usability, performance, security, and compatibili
 
 | Phase                   | Duration          |
 |------------------------|-------------------|
-| Test Planning           | 2 Days            |
-| Test Case Design        | 4 Days            |
-| Test Case Review        | 2 Days            |
-| Sprint Test Execution   | Ongoing (2 weeks) |
-| Regression Testing      | 2 Days/Sprint     |
+| Test Planning           | 1 Days            |
+| Test Case Design        | 1 Days            |
+| Test Case Review        | 1 Days            |
+| Sprint Test Execution   |1 Days |
+| Regression Testing      | 1 Days/Sprint     |
 | UAT Support             | As scheduled      |
 
 ---
