@@ -30,7 +30,6 @@ To validate the functionality, usability, performance, security, and compatibili
 
 ### Test Methodology
 - **Manual Testing**: UI/UX, exploratory, and regression
-- **Automation Testing**: Appium + Java for smoke, sanity, and regression
 - **Agile**: Sprint-based iterative testing and execution
 
 ### Test Approach
@@ -42,8 +41,6 @@ To validate the functionality, usability, performance, security, and compatibili
 ---
 
 ## ⚙️ Tools & Technologies
-- **Automation Framework**: Appium with Java
-- **CI/CD Integration**: Jenkins
 - **Defect Tracking**: Jira
 - **Device Coverage**: BrowserStack (Cloud Device Farm)
 - **Test Case Management**: Zephyr / Excel
@@ -140,7 +137,6 @@ To validate the functionality, usability, performance, security, and compatibili
 
 ## 📋 Templates Used
 - Test Case Template (Excel / Zephyr)
-- Bug Report Template (Jira)
 - Daily QA Status Template
 - Final Test Summary Report
 
@@ -148,7 +144,7 @@ To validate the functionality, usability, performance, security, and compatibili
 
 ## 📌 Author
 **Rohit Chouhan**  
-QA Engineer | Manual & Automation Testing  
-Tested the Meesho Mobile Application on both Android and iOS platforms using a blend of manual and automated testing practices.
+QA Engineer | Manual  
+Tested the Meesho Mobile Application on both Android and iOS platforms using a blend of manual  practices.
 
 ---
