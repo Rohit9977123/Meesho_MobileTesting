@@ -129,8 +129,7 @@ To validate the functionality, usability, performance, security, and compatibili
 - ✅ Test Plan Document  
 - ✅ Test Cases and Scenarios  
 - ✅ Test Summary Report  
-- ✅ Defect Reports  
-- ✅ Automation Scripts  
+- ✅ Defect Reports 
 - ✅ Execution Reports
 
 ---
