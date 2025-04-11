@@ -1,7 +1,7 @@
 # 📱 Meesho Mobile Application - QA Testing
 
 ## Overview
-This repository contains the Quality Assurance (QA) documentation and summary for the manual and automated testing efforts on the **Meesho Mobile Application**. The goal is to ensure that the application is stable, reliable, and meets user and business requirements before going live.
+This repository contains the Quality Assurance (QA) documentation and summary for the manual efforts on the **Meesho Mobile Application**. The goal is to ensure that the application is stable, reliable, and meets user and business requirements before going live.
 
 ---
 
